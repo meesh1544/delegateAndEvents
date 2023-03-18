@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\bin\Debug\net6.0\delegateAndEvents.exe
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\bin\Debug\net6.0\delegateAndEvents.deps.json
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\bin\Debug\net6.0\delegateAndEvents.runtimeconfig.json
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\bin\Debug\net6.0\delegateAndEvents.dll
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\bin\Debug\net6.0\delegateAndEvents.pdb
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.AssemblyInfo.cs
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.dll
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\refint\delegateAndEvents.dll
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.pdb
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\delegateAndEvents.genruntimeconfig.cache
+C:\Users\meesh\source\repos\delegateAndEvents\delegateAndEvents\obj\Debug\net6.0\ref\delegateAndEvents.dll
